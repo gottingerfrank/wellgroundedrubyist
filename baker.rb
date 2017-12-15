@@ -33,4 +33,3 @@ class Baker
 
   private :pour_flour, :add_egg, :stir_batter
 end
-

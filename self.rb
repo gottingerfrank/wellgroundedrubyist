@@ -11,21 +11,12 @@ class Person
 
   def initialize(name, age)
     @name = name
-    @age = age 
+    @age = age
     puts "This is self inside an instance method: #{self}"
   end
 end
 
 me = Person.new("Franjo", 32)
 
-puts me.name 
+puts me.name
 puts me.age
-
-
-
-
-
-
-
-
-
