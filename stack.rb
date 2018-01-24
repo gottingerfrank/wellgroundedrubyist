@@ -17,4 +17,3 @@ puts "Removed this object: "
 puts taken
 puts "Now on stack: "
 puts s.stack 
-
