@@ -1,5 +1,6 @@
 ## :sparkles: The Well Grounded Rubyist :gem: 
-#### Manning, by David A. Black
+####  Manning, by David A. Black
+ >####  Exercises
  
 
 ```ruby
