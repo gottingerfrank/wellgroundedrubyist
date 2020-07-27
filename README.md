@@ -1,7 +1,8 @@
-# The Well Grounded Rubyist
-### David A. Black, Manning Publications
+## :sparkles: The Well Grounded Rubyist :gem: 
+#### Manning, by David A. Black
+ 
 
-```
+```ruby
 => Ruby scripts, exercises, code snippets as inspired by book ...
 
 >> my_brain = Brain.new
