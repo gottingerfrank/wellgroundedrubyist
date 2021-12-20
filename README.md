@@ -6,9 +6,10 @@
 ```ruby
 => Ruby scripts, exercises, code snippets as inspired by book ...
 
->> my_brain = Brain.new
->> book = well_grounded_rubyist
+>> my_buffer = Buffer.new
+>> book = "The Well Grounded Rubyist, 2nd Edition"
 >> book.each do |line|
->>   my_brain.memorize!(line)
+>>   my_buffer.read!(line)
 >> end
+
 ```
