@@ -1,20 +1,22 @@
-## :sparkles: The Well Grounded Rubyist :gem: 
-####  Manning, by David A. Black
- >####  Exercises
+## :sparkles: The Well Grounded Rubyist :sparkles:
+#### by David A. Black, Manning
  
 
 ```ruby
-=> Ruby scripts, exercises, code snippets as inspired by book ...
+# => Exercises, snippets and scripts as inspired by book ...
 
 >> my_buffer = Buffer.new
 >> book = "The Well Grounded Rubyist, 2nd Edition"
 >> book.each do |line|
 >>   my_buffer.read!(line)
 >> end
+
 >> Tutorial.each do |task|
 >>   if !task.is_boring?
-       do_work(task)
-     else
-       continue
-     done 
+>>     do_work(task)
+>>   else
+>>     continue
+>>   done
+
 ```
+####
