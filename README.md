@@ -11,5 +11,10 @@
 >> book.each do |line|
 >>   my_buffer.read!(line)
 >> end
-
+>> Tutorial.each do |task|
+>>   if !task.is_boring?
+       do_work(task)
+     else
+       continue
+     done 
 ```
